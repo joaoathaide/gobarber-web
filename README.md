@@ -69,7 +69,7 @@ $ git clone https://github.com/joaoathaide/gobarber-web.git
 $ cd gobarber-web
 
 # Install dependencies
-$ yarn install
+$ yarn
 
 # Run the app
 $ yarn start
